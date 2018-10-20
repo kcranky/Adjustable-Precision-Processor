@@ -1,0 +1,54 @@
+clear all;
+close all;
+
+% AD9162 DAC used for manipulating carrier
+% http://www.analog.com/en/analog-dialogue/articles/new-rf-dac-broadens-sdr-horizon.html
+% http://www.analog.com/media/en/technical-documentation/data-sheets/AD9161-9162.pdf
+
+%% Define parameters
+Fs = 3.2E6;                 % samples per second
+StopTime = 0.005;           % seconds
+Ac = 2;                     % Amplitude of carrier
+Fc = 10000;                 % Frequency of Carrier
+
+Ax = 2;                     % Amplitude of x(t)
+FX = 2000;                  % Amplitude of x(t)
+
+dt = 1/Fs;                  % seconds per sample
+t = (0:dt:StopTime-dt)';    % seconds
+
+%% Generate x(t)
+X = Ax*sin(2*pi*Fx*t);
+X8 = fp8(Ax*sin(2*pi*Fx*t));
+X16 = fp16(Ax*sin(2*pi*Fx*t));
+
+%% Generate LO
+C = Ac*sin(2*pi*Fc*t);
+C8 = fp8(Ac*sin(2*pi*Fc*t));
+C16 = fp16(Ac*sin(2*pi*Fc*t));
+
+
+%% Multiply with LO
+Y = X .* C;
+Y8 = X8 .* C8;
+Y16 = X16 .* C16;
+
+%% Multiply with LO to get back to X(t)
+O =  Y .* X;
+O8 =  Y8 .* X8;
+O16 =  Y16 .* X16;
+
+%% Plots for comparison
+title('Modulation with whole chain at 16 bits');
+subplot()
+plot()
+
+%legend({'Look up tables', 'Flip flops', 'DSP'},'Location','northwest')
+legend({'Look up tables', 'Flip flops'},'Location','northwest')
+xlabel('Word Size') 
+ylabel('Number of resources') 
+
+
+
+%% Cross Correlation
+%coercoff()
