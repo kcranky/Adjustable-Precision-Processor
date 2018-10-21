@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sim_1/new/IPCompareTB.v,1540146897,verilog,,,,dawsonjon,,,,,,,,
+S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sources_1/imports/new/adder.v,1537987717,verilog,,S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sim_1/new/IPCompareTB.v,,adder,,,,,,,,
+S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sources_1/imports/new/multiplier.v,1538405657,verilog,,S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sim_1/new/IPCompareTB.v,,multiplier,,,,,,,,
+S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1540146364,verilog,,S:/Uni/EEE4022S/Code/FPGAProjectTesting/IPCompare/IPCompare.srcs/sources_1/imports/new/adder.v,,blk_mem_gen_0,,,,,,,,
