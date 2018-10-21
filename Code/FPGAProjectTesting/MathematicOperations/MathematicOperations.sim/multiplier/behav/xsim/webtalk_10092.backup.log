@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct  1 16:31:07 2018
+# Process ID: 10092
+# Current directory: S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim
+# Command line: wbtcv.exe -mode batch -source S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim/xsim.dir/multiplierTB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim/webtalk.log
+# Journal file: S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim/xsim.dir/multiplierTB_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim/xsim.dir/multiplierTB_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Mon Oct  1 16:31:13 2018. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2018.2/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 55.395 ; gain = 1.383
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct  1 16:31:13 2018...

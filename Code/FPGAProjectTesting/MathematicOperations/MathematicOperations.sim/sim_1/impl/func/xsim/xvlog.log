@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/impl/func/xsim/implementation_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Debounce
+INFO: [VRFC 10-311] analyzing module implementation
+INFO: [VRFC 10-311] analyzing module glbl

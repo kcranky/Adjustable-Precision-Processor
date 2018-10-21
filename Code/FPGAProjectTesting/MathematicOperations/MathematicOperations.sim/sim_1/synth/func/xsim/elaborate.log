@@ -1,0 +1,25 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 6f9edc5e76e14d79ac9f6122f77c3f2e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot AdderTB_func_synth xil_defaultlib.AdderTB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-426] cannot find port input_b_ack on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:71]
+ERROR: [VRFC 10-426] cannot find port input_a_ack on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:70]
+ERROR: [VRFC 10-426] cannot find port output_z_stb on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:69]
+ERROR: [VRFC 10-426] cannot find port output_z on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:68]
+ERROR: [VRFC 10-426] cannot find port rst on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:67]
+ERROR: [VRFC 10-426] cannot find port clk on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:66]
+ERROR: [VRFC 10-426] cannot find port output_z_ack on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:65]
+ERROR: [VRFC 10-426] cannot find port input_b_stb on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:64]
+ERROR: [VRFC 10-426] cannot find port input_a_stb on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:63]
+ERROR: [VRFC 10-426] cannot find port input_b on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:62]
+ERROR: [VRFC 10-426] cannot find port input_a on this module [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v:61]
+ERROR: [VRFC 10-2063] Module <LUT5> not found while processing module instance <A_STB_i_1> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:600]
+ERROR: [VRFC 10-2063] Module <LUT6> not found while processing module instance <FSM_sequential_state[0]_i_1> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:610]
+ERROR: [VRFC 10-2063] Module <LUT2> not found while processing module instance <FSM_sequential_state[3]_i_10> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:666]
+ERROR: [VRFC 10-2063] Module <LUT4> not found while processing module instance <FSM_sequential_state[3]_i_6> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:711]
+ERROR: [VRFC 10-2063] Module <FDRE> not found while processing module instance <FSM_sequential_state_reg[0]> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:745]
+ERROR: [VRFC 10-2063] Module <LUT3> not found while processing module instance <a_e[4]_i_2> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:842]
+ERROR: [VRFC 10-2063] Module <CARRY4> not found while processing module instance <p_1_out_carry> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:1985]
+ERROR: [VRFC 10-2063] Module <MUXF7> not found while processing module instance <z_e_reg[8]_i_1> [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v:4230]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

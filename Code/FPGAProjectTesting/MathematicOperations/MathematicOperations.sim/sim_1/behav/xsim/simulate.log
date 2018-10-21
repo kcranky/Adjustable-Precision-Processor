@@ -1,0 +1,9 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Result: zz00
+Result: zz9c
+Result: zza7
+Result: zz00
+Result: zzf8
+Result: zzf0
+$finish called at time : 124 ns : File "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v" Line 103

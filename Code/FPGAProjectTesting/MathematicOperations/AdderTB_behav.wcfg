@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="AdderTB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="AdderTB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="54866667fs"></ZoomStartTime>
+      <ZoomEndTime time="181866668fs"></ZoomEndTime>
+      <Cursor1Time time="106000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="165"></NameColumnWidth>
+      <ValueColumnWidth column_width="177"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wave_markers>
+      <marker time="84000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/AdderTB/A_INPUT" type="array">
+      <obj_property name="ElementShortName">A_INPUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">A_INPUT[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">11</obj_property>
+      <obj_property name="radix_otherWidth">5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/B_INPUT" type="array">
+      <obj_property name="ElementShortName">B_INPUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">B_INPUT[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">11</obj_property>
+      <obj_property name="radix_otherWidth">5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/A_STB" type="logic">
+      <obj_property name="ElementShortName">A_STB</obj_property>
+      <obj_property name="ObjectShortName">A_STB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/B_STB" type="logic">
+      <obj_property name="ElementShortName">B_STB</obj_property>
+      <obj_property name="ObjectShortName">B_STB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/A_ACK" type="logic">
+      <obj_property name="ElementShortName">A_ACK</obj_property>
+      <obj_property name="ObjectShortName">A_ACK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/B_ACK" type="logic">
+      <obj_property name="ElementShortName">B_ACK</obj_property>
+      <obj_property name="ObjectShortName">B_ACK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/Z_STB" type="logic">
+      <obj_property name="ElementShortName">Z_STB</obj_property>
+      <obj_property name="ObjectShortName">Z_STB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/Z_ACK" type="logic">
+      <obj_property name="ElementShortName">Z_ACK</obj_property>
+      <obj_property name="ObjectShortName">Z_ACK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/AdderTB/RESULT" type="array">
+      <obj_property name="ElementShortName">RESULT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RESULT[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="radix_realType">FLOATINGPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">11</obj_property>
+      <obj_property name="radix_otherWidth">5</obj_property>
+   </wvobject>
+</wave_config>

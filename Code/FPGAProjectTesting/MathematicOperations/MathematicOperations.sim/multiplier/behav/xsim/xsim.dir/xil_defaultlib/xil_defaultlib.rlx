@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/multiplier/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/multiplier/imports/new/multiplierTB.v,1538406007,verilog,,,,multiplierTB,,,,,,,,
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/implementation.v,1537992744,verilog,,S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/multiplier.v,,implementation,,,,,,,,
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/multiplier.v,1538405657,verilog,,S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/multiplier/imports/new/multiplierTB.v,,multiplier,,,,,,,,

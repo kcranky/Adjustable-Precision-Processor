@@ -1,0 +1,6 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Result: 0X00
+Result: 0X00
+Result: 0X00
+$finish called at time : 45 ns : File "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/multiplier/imports/new/multiplierTB.v" Line 99

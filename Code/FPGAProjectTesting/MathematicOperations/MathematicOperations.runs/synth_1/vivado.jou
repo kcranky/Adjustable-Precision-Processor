@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct  8 21:53:03 2018
+# Process ID: 11112
+# Current directory: S:/Uni/EEE4022S/Code/FPGAProjectTesting/MathematicOperations/MathematicOperations.runs/synth_1
+# Command line: vivado.exe -log implementation.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source implementation.tcl
+# Log file: S:/Uni/EEE4022S/Code/FPGAProjectTesting/MathematicOperations/MathematicOperations.runs/synth_1/implementation.vds
+# Journal file: S:/Uni/EEE4022S/Code/FPGAProjectTesting/MathematicOperations/MathematicOperations.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source implementation.tcl -notrace

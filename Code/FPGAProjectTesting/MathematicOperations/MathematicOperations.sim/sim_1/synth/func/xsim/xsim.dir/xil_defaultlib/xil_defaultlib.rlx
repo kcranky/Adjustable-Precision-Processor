@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.sim/sim_1/synth/func/xsim/AdderTB_func_synth.v,1537814107,verilog,,S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v,,adder;glbl;implementation,,,,,,,,
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/imports/new/multiplierTB.v,1537268502,verilog,,,,multiplierTB,,,,,,,,
+S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v,1537807904,verilog,,S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/imports/new/multiplierTB.v,,AdderTB,,,,,,,,

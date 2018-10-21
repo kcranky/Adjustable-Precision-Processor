@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/implementation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module implementation
+WARNING: [VRFC 10-1315] redeclaration of ansi port RESULT is not allowed [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/implementation.v:33]
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sources_1/new/implementation.v:88]
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/new/AdderTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AdderTB
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Uni/EEE4022S/FPGAProjectTesting/MathematicOperations/MathematicOperations.srcs/sim_1/imports/new/multiplierTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplierTB

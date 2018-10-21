@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"AdderTB_func_synth.v" \
+"../../../../../MathematicOperations.srcs/sim_1/new/AdderTB.v" \
+"../../../../../MathematicOperations.srcs/sim_1/imports/new/multiplierTB.v" \
+
+# Do not sort compile order
+nosort
