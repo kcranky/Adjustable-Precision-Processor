@@ -1,14 +1,15 @@
 # EEE4022S
 All resources, code, etc used in the EEE4022S Final year project.
+If you'd like to download the report to read, please click [Here](CRNKEE002FinalReport.pdf)
 
-# Admin and Planning
+## Admin and Planning
 Rubrics and other resources eased in understanding of the project and the report writing.
 
-# Code
+## Code
 Consists of MATLAB code, Verilog projects, Python Scripts, and code snippets to run some test cases on the Raspbery Pi. Further details in the folder.
 
-# Pictures
+## Pictures
 Pictures and screenshots captured and/or used in the report.
 
-# Report Source
+## Report Source
 The Latex Source for the final report. Overleaf was used as a writing environment.
